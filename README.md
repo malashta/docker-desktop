@@ -46,11 +46,11 @@ Requirements:
 ### Building the docker image
 
 ```
-$ docker build -t rogaha/docker-desktop git://github.com/rogaha/docker-desktop.git
+$ docker build -t rogaha/docker-desktop git://github.com/malashta/docker-desktop.git
 
 OR
 
-$ git clone https://github.com/rogaha/docker-desktop.git
+$ git clone https://github.com/malashta/docker-desktop.git
 $ cd docker-desktop
 $ docker build -t [username]/docker-desktop .
 ```
